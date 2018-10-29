@@ -1,5 +1,5 @@
-# CryptoWoo Kimchi Soxchain Add-on (NOT READY YET!)
-Accept payments in Kimchi Soxchain in WooCommerce with CryptoWoo.
+# CryptoWoo Kimchi Soxchain (KSOX) Add-on (NOT READY YET!)
+Accept payments in Kimchi Soxchain (KSOX) in WooCommerce with CryptoWoo.
 
 ## Requirements
 [WordPress](https://wordpress.org/download/)  
