@@ -1,5 +1,5 @@
-# CryptoWoo Bitcoin Cash Add-on
-Accept payments in Bitcoin Cash in WooCommerce with CryptoWoo.
+# CryptoWoo Kimchi Soxchain Add-on (NOT READY YET!)
+Accept payments in Kimchi Soxchain in WooCommerce with CryptoWoo.
 
 ## Requirements
 [WordPress](https://wordpress.org/download/)  
@@ -12,7 +12,7 @@ Accept payments in Bitcoin Cash in WooCommerce with CryptoWoo.
 2. Upload plugin in wordpress admin -> plugins.
 3. Activate plugin.
 
-# Donate
+# Donate To The Plugin Originator Who Made the CryptoWoo Bitcoin Cash Add-on
 <img align="left" src="https://blockchain.info/qr?data=1H1CjSMwLjeeuuMbumdQCRoxAyAGKfi3Mc&size=150">  
 
 Contribute to development of this plugin.
